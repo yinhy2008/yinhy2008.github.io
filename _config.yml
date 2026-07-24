@@ -22,15 +22,15 @@ plugins:
 minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Welcome to Jingwen Tong's Homepage"
+locale                   : "zh-CN"
+title                    : "Yolanda Yin's Homepage"
 title_separator          : "-"
-subtitle                 : "LLM-Based AI Agents and Multi-Armed Bandits, Wireless Networks"
-name                     : "jwentong"
-description              : "An amazing website."
-url                      : "https://jwentong.github.io/" # protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "金融科技与风险控制硕士 · CFA 持证"
+name                     : "yinhy2008"
+description              : "尹红艳（Yolanda）个人主页 — 深圳大学南特金融科技学院金融科技与风险控制硕士，研究方向：VAE 期权定价、信贷违约预测。"
+url                      : "https://yinhy2008.github.io" # protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jwentong/jwentong.github.io #e.g. "mmistakes/minimal-mistakes"
+repository               : yinhy2008/yinhy2008.github.io #e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Favicon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -41,7 +41,7 @@ comments:
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -111,55 +111,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jingwen Tong"
-  avatar           : "/assets/images/JingwenTong_USA.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor, Shenzhen University"
-  email            : "eejwentong@ust.hk"
-  location         : "Kowloon, Hong Kong"
+  name             : "Yolanda Yin"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "金融科技与风险控制硕士 · CFA · PMP"
+  location         : "Shenzhen, China"
   links:
-   # - label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-      #url: "eejwentong@ust.hk"
-    - label: "Research Group"
-      icon: "fas fa-fw fa-link"
-      url: "https://eejzhang.people.ust.hk/group.html"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=4Bvv2zMAAAAJ&hl=zh-EN"
-    - label: "LinkedIn Homepage"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jingwen-tong-86006119a/"
-    - label: "Facebook"
-      # icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub Repository"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jwentong/jwentong.github.io"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/yinhy2008"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/yinhy2008"
 
 
 # Reading Files
@@ -299,48 +265,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
-
-
-
- 
-defaults:
-  # _service
-  - scope:
-      path: ""
-      type: service
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: #true
-      share: true
-      related: true
-      
-  
-defaults:
-  # _service
-  - scope:
-      path: ""
-      type: honor
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: #true
-      share: true
-      related: true
-      
-defaults:
-  # _service
-  - scope:
-      path: ""
-      type: MAB
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: #true
       share: true
       related: true
