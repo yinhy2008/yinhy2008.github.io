@@ -1,13 +1,14 @@
 # main links
 main:
   - title: "Home"
-    url: https://jwentong.github.io/
-  - title: "About Me"
-    url: /service/ 
-  - title: "Publication"
-    url: /honor/ 
-  - title: "MAB"
-    url: /mab/ 
-  - title: "Google Scholar"
-    url: https://scholar.google.com/citations?user=4Bvv2zMAAAAJ&hl=zh-CN
-
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Skills"
+    url: /skills/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
+  - title: "GitHub"
+    url: https://github.com/yinhy2008
