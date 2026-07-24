@@ -19,7 +19,7 @@ author_profile: true
 你好！我是尹红艳（Yolanda），深圳大学南特金融科技学院金融科技与风险控制专业在读硕士。本科毕业于河海大学信息管理与信息系统专业。我的研究方向聚焦于将生成式 AI 与机器学习方法应用于金融工程与风险管理，目前主要从事两方面的研究：基于变分自编码器（VAE）的期权定价与希腊字母预测，以及 LendingClub 信贷违约预测模型。
 
 {: .text-justify}
-在学术深造之前，我拥有 近10 年的金融与地产科技行业经验，先后在家族办公室担任渠道经理，以及在万科、明源软件等企业从事 ERP/CRM 业务分析与项目实施工作。我持有 CFA（特许金融分析师）、PMP（项目管理专业人士）、腾讯云 AI 工程师认证，目前正在备考 CQF（国际量化金融分析师）。
+在学术深造之前，我拥有 10 年以上的金融与地产科技行业经验，先后在家族办公室担任渠道经理，以及在万科、明源软件等企业从事 ERP/CRM 业务分析与项目实施工作。我持有 CFA（特许金融分析师）、PMP（项目管理专业人士）、腾讯云 AI 工程师认证，目前正在备考 CQF（国际量化金融分析师）。
 
 ---
 
@@ -93,5 +93,5 @@ author_profile: true
 ### Selected Publication
 
 {: .text-justify}
-1. H. Yin, et al., "A Research on Information System Construction of Real Estate Enterprise Based on ERP," 2011 International Conference on Management and Service Science (MASS), Wuhan, 2011.
-2. H. Yin, et al., "The Construction of Customer Relationship Management System for Real Estate Enterprises," 2011 International Conference on Information Management, Innovation Management and Industrial Engineering (AIMSEC), Shenzhen, 2011.
+1. 《信息化规划与企业战略的协同策略研究》（英文版，第二作者），发表于第五届管理与服务科学国际会议（MASS 2011），被收录于 Ei 核心版、Compendex 数据库。
+2. 《试论江苏省城市化发展的现状与矛盾》（英文版，第二作者），发表于第二届人工智能、管理科学与电子商务国际会议（AIMSEC 2011）。
