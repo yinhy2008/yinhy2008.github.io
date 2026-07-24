@@ -1,98 +1,83 @@
 ---
 layout: archive
 author_profile: true
-title: Service
-permalink: /service/
+title: About
+permalink: /about/
 ---
 
 ---
+
 ### About Me
 
 {: .text-justify}
-Hello! I am Jingwen Tong, an Assistant Professor in the College of Electronics and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Jun Zhang and collaborating closely with Prof. Khaled Ben Letaief. From 2019 to 2020, I was also a visiting scholar at the University of Houston, USA. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, and the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
-
+你好！我是尹红艳（Yolanda），深圳大学南特金融科技学院金融科技与风险控制专业在读硕士（2025.09 - 2027.06）。本科毕业于河海大学信息管理与信息系统专业。
 
 {: .text-justify}
-My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with applications in wireless communications. I am broadly interested in building learning systems that make sequential decisions under uncertainty, efficiently explore large action spaces, and achieve robust performance in real-world networked environments.
+我的研究方向聚焦于将生成式 AI 与机器学习方法应用于金融工程与风险管理，目前主要从事两方面的研究：
+1. **基于变分自编码器（VAE）的期权定价与希腊字母预测**：探索使用 VAE 学习期权价格分布的潜在表示，预测 Delta、Gamma、Vega 等希腊字母，相比传统 BSM 闭式解与蒙特卡洛模拟具有更优的拟合能力。
+2. **LendingClub 信贷违约预测模型**：针对类别不平衡问题采用 SMOTE 过采样，使用 XGBoost 构建主模型，通过 SHAP 进行可解释性分析。
 
-Here is my [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
-
-<p align="center"><img src="{{ '/assets/images/Assm_2.png' | relative_url }}" style="display:block;margin:0 auto;max-width:100%;height:auto;" alt="About image"></p>
+{: .text-justify}
+在学术深造之前，我拥有 10 年以上的金融与地产科技行业经验，先后在家族办公室担任渠道经理，以及在万科、明源软件等企业从事 ERP/CRM 业务分析与项目实施工作。我持有 CFA（特许金融分析师）、PMP（项目管理专业人士）、腾讯云 AI 工程师认证，目前正在备考 CQF（国际量化金融分析师）。
 
 ---
+
+### Education
+
+{: .text-justify}
+* 2025.09 - 2027.06（预计），金融科技与风险控制硕士，深圳大学南特金融科技学院
+  - 研究方向：VAE 期权定价、信贷违约预测
+  - 核心课程：金融衍生品、计量金融学、人工智能与机器学习、数据挖掘与分析、金融机构风险管理
+* 2008.09 - 2012.06，信息管理与信息系统本科，河海大学商学院（GPA：4.03/5.0）
+
+---
+
 ### Work Experience
 
 {: .text-justify}
-* 2026.01- Now, Assistant Professor, College of Electronics and Information Engineering at Shenzhen University. Work closely with Prof. [Shengli Zhang](https://scholar.google.com/citations?user=vjujlkoAAAAJ&hl=en)
-* 2022.06- 2026.01, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
-* 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisors: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
+* 2018.08 - 2023.04，渠道经理，松石家族办公室
+  - 为潜在客户提供境外投资信息咨询服务
+  - 境外保单、资产配置方案设计与落地
+  - 在此期间取得 CFA 持证，寻求向量化金融方向转型
+* 2017.04 - 2018.07，CRM 子系统项目经理，万科集团 万翼科技客户平台部
+  - 参与沃土计划（集团级信息化、数字化建设战略项目）销售系统重构
+  - 深度参与杭州试点，负责全国上线期间北方区域 11 家子公司的推广培训
+  - 负责销售系统全国推广后的产品迭代规划：整售专项、POS 直连的业务调研与产品规划设计
+* 2015.03 - 2017.03，资源整合部副部长，深圳御邦医通数字化健康服务有限公司
+  - 信息化项目：协同研发经理完成慢病健康管理服务系统及公众号的策划与上线
+  - 供应商管理：深度参与体系内供应商引入事宜，包括合同谈判、产品价格确定、合作项目推进
+* 2012.02 - 2014.08，高级咨询顾问 / 项目经理，深圳市明源软件股份有限公司 总部战略客户部
+  - 负责招商地产 ERP 项目的成本和采购系统
+  - 主责完成营销流程优化、成本数据库、采招系统升级等子项目
+  - 营销流程优化和采招系统升级子项目获招商局优秀项目奖
+  - 深度参与招商地产 ERP 项目全国推广培训及数据巡检体系搭建
 
 ---
+
+### Certifications
+
+{: .text-justify}
+* **CFA**（Chartered Financial Analyst，特许金融分析师）— 持证
+* **PMP**（Project Management Professional，项目管理专业人士）— 持证
+* **腾讯云 AI 工程师认证** — 持证
+* **CQF**（Certificate in Quantitative Finance，国际量化金融分析师）— 考生
+
+---
+
+### Research Interests
+
+{: .text-justify}
+* **生成式 AI 在金融工程中的应用**：VAE、GAN 等生成模型用于期权定价、风险中性密度估计
+* **机器学习在信贷风控中的应用**：违约预测、特征工程、模型可解释性（SHAP / LIME）
+* **量化金融**： Greeks 计算、波动率建模、XVA（CVA / DVA / FVA）
+* **AI Agent 在金融决策中的探索**：多角色协作、自动化投研流程
+
+---
+
 ### Service
 
-**Conference Organizer**
-
 {: .text-justify}
-* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024), Sept. 11-12, Hong Kong, 2025
-* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024), Sept. 11-12, Hong Kong, 2024
-* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023), Sept. 13-14, Hong Kong, 2023
-* Huawei-HKUST Joint Workshop on Theory for Future Wireless, Sept. 15-16, Hong Kong, 2022
-* IEEE/CIC International Conference on Communications in China (ICCC), Xiamen, 2021
-
-**Session Chair**
-
-{: .text-justify}
-* IEEE/CIC International Conference on Communications in China (ICCC), Xiamen, 2021
-
-**Technical Program Committee Member**
-{: .text-justify}
-* IEEE INFOCOM WKSHPS, 2026, (ICCN: IEEE International Workshop on Intelligent Cloud Computing and Networking)
-* IEEE INFOCOM WKSHPS, 2025, (ICCN: IEEE International Workshop on Intelligent Cloud Computing and Networking)
-* IEEE Globecom, 2025, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
-* IEEE Globecom, 2024, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
-* IEEE Globecom, 2023, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
-* IEEE WCNC, 2026, (Track 3: Machine Learning and Optimization for Wireless Systems)
-* IEEE WCNC, 2025, (Track 3: Resource Allocation and Machine Learning)
-* IEEE WCNC WKSHPS, 2024, (WS-15: Model-Driven Deep Learning for 6G)
-* IEEE ICC, 2024, (WS06: Task-Oriented and Generative Communications for 6G)
-* IEEE VTC Spring, 2025, (IoV: IoT, M2M, Sensor Networks, and Ad-Hoc Networking)
-
-**Reviewer for**
-
-{: .text-justify}
-* IEEE Transactions on Wireless Communications (TWC)
-* IEEE Transactions on Communications (TCOM)
-* IEEE Transactions on Networking (TON)
-* IEEE Transactions on Vehicular Technology (TVT)
-* IEEE Transactions on Cognitive Communications and Networking (TCCN)
-* IEEE Communications Magazine  
-* IEEE Transactions on Mobile Computing (TMC)
-* IEEE Transactions on Machine Learning in Communications and Networks (TMLCN)
-* IEEE Internet of Things Journal (JIOT)
-* IEEE Internet of Things Magazine
-* IEEE Journal on Selected Areas in Communications (JSAC)
-* IEEE Communications Letters (CL)
-* IEEE Wireless Communications Letters (WCL)
-* Journal of Communications and Information Networks (JCUN)
-* Conferences ICC, VTC, WCNC, GLOBECOM, INFOCOM
-
-
+* 金融 AI Agent 暑假集训参与者（2026），完成模块一至模块三全部实验
+* 持续学习并参与 CFA、CQF 量化金融社区讨论
 
 ---
-### Honor
-
-**Awards and Honors**
-
-{: .text-justify}
-* Excellent doctoral dissertation at Xiamen University, 2022 
-* Outstanding Graduate from Xiamen University, 2022
-* Wande scholarship in Xiamen University, 2022
-* IEEE ComSoc Student Travel Grant for IEEE ICC，2020 
-* The Chinese Government Scholarship for study abroad, 2019
-* Outstanding Graduate from Ningbo University, 2018
-* Graduate Academic Festival in Ningbo, the Gold Award, 2017 
-* National Post-Graduate Mathematical Contest in Modeling, Second Prize, 2017 
-* National Post-Graduate Mathematical Contest in Modeling, Second Prize, 2016 
-* Outstanding Graduate from China Jiliang University, 2015
-* National Inspirational Scholarship, ranked 2/80, 2013 
-* National Undergraduate Electronic Design Competition, Second Prize, 2013 
