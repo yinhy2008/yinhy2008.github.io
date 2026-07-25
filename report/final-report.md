@@ -63,7 +63,7 @@
 
 1. 第一次预览：填入 Pages 链接 + 仓库链接 + 报告路径
 2. 二次确认：手动核对每项必填字段
-3. 看到「Submitted successfully」成功回执并截图
+3. ✅ 看到「Submitted successfully」成功回执（提交编号 #109，2026-07-25，第 1 次尝试即通过）
 
 ---
 
@@ -171,7 +171,10 @@
 
 ### 5.6 G6 平台确已收件
 
-- ⏳ 待在 TA-Claw 完成预览 → 二次确认 → 「Submitted successfully」回执截图
+- ✅ 已在 Vibe / 课程平台（vibe.planlabopc.com）完成提交
+- ✅ 提交编号：#109（第 1 次尝试即通过）
+- ✅ 提交内容：40 个代码文件 + 10 张截图 + 1 份报告（~7 MB）
+- ✅ 成功回执截图已保存
 
 ### 5.7 隐私红线专项扫描
 
@@ -221,7 +224,8 @@
 - 建立 VAE 期权定价、LendingClub 信贷违约两个独立 GitHub 仓库，并在 Projects 卡片中替换为直链
 - 在 Publications 页面补充硕士期间正式发表的论文（如有）
 - 考虑在 About 页加入学术简历 PDF 下载（脱敏版本）
-- 完成加分作业 OpenClaw 双角色聊天 APP（金融顾问 vs 谨慎客户）
+- ✅ 加分作业 OpenClaw 双角色聊天 APP 已完成（金融顾问 vs 谨慎客户，3 轮对话触发 S2 停止条件，详见 `openclaw/` 目录）
+
 
 ---
 
@@ -239,7 +243,7 @@
 | 移动端截图 | `screenshots/homepage-mobile.png` |
 | Pages 部署截图 | `screenshots/github-pages.png` |
 | Checklist 截图 | `screenshots/checklist.png` |
-| TA-Claw 回执截图 | `screenshots/ta-claw-submission.png`（待提交后补） |
+| TA-Claw 回执截图 | `screenshots/ta-claw-submission.png`（✅ 提交编号 #109，2026-07-25） |
 
 ---
 
